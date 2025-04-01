@@ -2,6 +2,9 @@
 
 Este repositório contém um projeto de CLI (Command Line Interface) desenvolvido com TypeScript. O projeto permite o gerenciamento de categorias e produtos diretamente pelo terminal, utilizando a biblioteca `inquirer` para interatividade e `cli-table3` para exibição estruturada de dados.
 
+## Alunos:
+Arthur Ribeiro Vitorino, Débora Rezende, Anna Júlia Cúrcio, Ana Carolina de Andrade
+
 ## Recursos
 - Adicionar, listar, buscar, editar e excluir **categorias**
 - Adicionar, listar, buscar, editar e excluir **produtos**
